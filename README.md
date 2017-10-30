@@ -26,7 +26,7 @@ STEP 3 :
 ```
   php artisan vendor:publish --tag=userPermissionPackage_ilbeygi_ir
 ```
-STEP 4 :
+STEP 4 : 
 ```
   php artisan migrate
 ```
