@@ -44,7 +44,7 @@ STEP 6 : run laravel
   php artisan serve
 ```
 
-STEP 7 : Go to this way (just for once) 
+STEP 7 : Go to this way (just for once and you must be logged in) 
 ```
   http://{your_laravel_address}/saveAllRouteNameInDatabase
 ```
