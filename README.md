@@ -62,3 +62,6 @@ SETP 9 : go to this route and see permission panel
 ```
  http://{your_laravel_address}/panel/permissions
 ```
+
+
+**Hope to be useful to you**
