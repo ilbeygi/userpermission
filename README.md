@@ -49,11 +49,16 @@ STEP 7 : Go to this way (just for once and you must be logged in)
   http://{your_laravel_address}/saveAllRouteNameInDatabase
 ```
 
-STEP8 : 
+STEP 8 : 
   Go to `vendor/ilbeygi/userpermission/src/route.php` and delete `/saveAllRouteNameInDatabase` route :
 ```
 Route::get('/saveAllRouteNameInDatabase', function (){
     
         ......
     });
+```
+
+SETP 9 : go to this route and see permission panel
+```
+ http://{your_laravel_address}/panel/permissions
 ```
