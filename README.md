@@ -63,5 +63,5 @@ SETP 9 : go to this route and see permission panel
  http://{your_laravel_address}/panel/permissions
 ```
 
-
+full persian document here :  http://vrgl.ir/A8P1s 
 **Hope to be useful to you**
