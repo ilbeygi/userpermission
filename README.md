@@ -3,6 +3,8 @@ This is a package about permissions of users in laravel
 
 -------
 
+![laravel permissions](https://files.virgool.io/upload/users/7590/posts/otcikssypq5x/dsbxgqixmru7.png)
+
 ## How to install userPermission package on laravel
 
 **Installation**
